@@ -1,4 +1,4 @@
-# Usecase of apache calcite
+# Examples of apache calcite
 
 ## lineage
 
